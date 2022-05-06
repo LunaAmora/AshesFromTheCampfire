@@ -1,0 +1,17 @@
+{
+    "name": "Ashes",
+    "rootNamespace": "Ashes",
+    "references": [
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:7af97d664ff224f459a300cb41e12148"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
